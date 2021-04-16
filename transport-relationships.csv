@@ -1,3 +1,4 @@
+src,dst,relationship,cost
 Toulouse,Paris,EROAD,588
 Toulouse,Nantes,EROAD,466
 Toulouse,Brussels,EROAD,834
